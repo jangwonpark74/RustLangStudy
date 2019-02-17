@@ -10,6 +10,13 @@
 
     ~/helloworld$ cargo run
 ```   
+### Crate 
+ A crate is a package, which can be shared via crates.io. A crate can produce an executable or a library. In other words, it can be a binary crate or a library crate.
+```
+	$ cargo new crate_name or cargo new crate_name --bin
+    $ cargo new crate_name --lib
+```
+
 ## Introduction to Rust(EclipseCon Europe 2018]
  - [Rust and eclipse](https://www.eclipsecon.org/sites/default/files/slides/Rust_and_Eclipse.pdf)
 
