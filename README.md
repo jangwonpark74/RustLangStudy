@@ -4,10 +4,14 @@
 ```
 	$ curl https://sh.rustup.rs -sSf | sh
     ....
+
+    $ sudo apt install cargo
     $ cargo new helloworld && cd helloworld
 
     ~/helloworld$ cargo run
 ```   
+## Introduction to Rust(EclipseCon Europe 2018]
+ - [Rust and eclipse](https://www.eclipsecon.org/sites/default/files/slides/Rust_and_Eclipse.pdf)
 
 ## Programming in Rust (2015) 
  - [Jim Blandy's Programming in Rust, Mozilla](https://www.red-bean.com/jimb/rust/Programming%20In%20Rust.pdf)
